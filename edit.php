@@ -34,7 +34,7 @@
 
 				<?php
 				include('koneksi.php');
-				
+				// kommit
 				//melakukan pengecekan jika button  submit diklik maka akan menjalankan perintah simpan di bawah ini
 				if (isset($_POST['submit'])) {
 					//menampung data dari inputan
